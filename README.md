@@ -21,9 +21,10 @@ SC2SM (SNR=0.217dB) for_val_0.zip
 
 Baidu Drive : https://pan.baidu.com/s/1p8dYxMfF7j6Y7QGUVUsPWg
 
-The password is: 8888
+The password is: 8888  
 
-https://pan.baidu.com/s/1p8dYxMfF7j6Y7QGUVUsPWg
+
+
 
 
 If you have any question about SC2SM dataset, please contact shenli@pku.edu.cn or shenli@bjirs.org.cn
